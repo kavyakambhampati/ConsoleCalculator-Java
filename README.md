@@ -42,4 +42,6 @@ This project is about preparing data for machine learning using the Titanic data
 
 ## 📚 What I Learned  
 This task taught me how important clean data is for machine learning. I learned how to fix missing data, convert text into numbers, and prepare features for modeling.
+👩‍💻 **Author:** Kavya Kambhampati  
+🔗 **Repo Link:** [ConsoleCalculator-Java](https://github.com/kavyakambhampati/ConsoleCalculator-Java)
 
